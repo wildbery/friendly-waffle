@@ -16,6 +16,10 @@ ul li {
     margin-left: 20px;
 }
 
-l {
+li {
     background-color: darkorange;
+}
+
+h1 span {
+    color: white;
 }
